@@ -1,0 +1,3 @@
+rootProject.name = 'xp-flavor'
+
+include 'xp-flavor-jvm', 'xp-flavor-js'
