@@ -10,7 +10,7 @@ I will also be omitting parts of this process that are identical to Scrum.
     - Don't take the word "hour" too literally.
       An "hour" in this context is a convenient part of a day.
       If engineers feel they get 40% of their work done before lunch and 60% after,
-      they might say there are 2 hours before lunch and 5 hours after,
+      they might say there are 2 hours before lunch and 3 hours after,
       or 4 and 6 if they find the extra granularity more convenient to track. 
 - Ideal hours
     - An imaginary time unit used for estimating relative effort.
