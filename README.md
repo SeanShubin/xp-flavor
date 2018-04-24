@@ -1,4 +1,5 @@
 # Sean's flavor of eXtreme Programming
+A tool to help teams express what is slowing them down
 
 ## Scrum style
 I will be describing the Scrum style here because that is what I have actually done,
