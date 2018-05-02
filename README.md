@@ -40,7 +40,7 @@ The team self-organizes to get the iterations work done via a pull system.
 We start by identifying the task someone is least qualified to do, and have them claim that task.
 They then pair with the person most qualified to bring them up to speed.
 Any time work is added to the iteration, an equal amount of estimated work must be dropped.
-Any work that has already started is not available to be dropped.
+Any work that has already started does not refund time when dropped (this is necessary to disincentivize thrashing).
 
 ## Daily
 Each engineer allocates all of their actual hours for the previous day.
